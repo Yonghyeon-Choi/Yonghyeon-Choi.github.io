@@ -119,17 +119,14 @@ skills:
       - name: Java
         level: 50%
 
-      - name: HTML5
-        level: 50%
-
       - name: MySQL
         level: 50%
 
       - name: Photoshop
         level: 50%
 
-      - name: MySQL
-        level: 50%
+      - name: Swift
+        level: 20%
       
       - name: No end to learning and I always think I am lacking.
         level: 10%
