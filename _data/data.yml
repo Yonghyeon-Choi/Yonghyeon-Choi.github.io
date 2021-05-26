@@ -76,6 +76,9 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
+      - title: NSR
+        //link: "#"
+        tagline: "-"
       - title: MAP(Music and Picture)
         //link: "#"
         tagline: "It is a system that recommends music through pictures and can be used as a music player or SNS."
